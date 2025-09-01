@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhlb_sssp.a CMakeFiles/hlb_sssp_obj.dir/src/hlb_sssp.cpp.o CMakeFiles/hlb_sssp_obj.dir/src/hlb_c.cpp.o
+/usr/bin/ranlib libhlb_sssp.a
