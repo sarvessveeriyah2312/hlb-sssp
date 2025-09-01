@@ -1,4 +1,4 @@
-# HLB-SSSP v2.5 (C++ Library)
+# HLB-SSSP (C++ Library)
 
 High-performance multi-level bucket SSSP for positive integer weights.
 Includes C API (FFI) and optional Python binding (pybind11).
