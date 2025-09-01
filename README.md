@@ -46,4 +46,4 @@ python -c "import hlb_py"
 
 ## License
 
-MIT (suggested) — edit as you prefer.
+[MIT](https://github.com/sarvessveeriyah2312/hlb-sssp/blob/main/LICENSE)
